@@ -1,0 +1,8 @@
+- model: nasbot
+  operations:
+    demo-synthetic:
+      main: demos/demo_synthetic
+    demo-mlp:
+      main: demos/demo_mlp
+    demo-cnn:
+      main: demos/demo_cnn
