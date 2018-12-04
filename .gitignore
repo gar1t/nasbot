@@ -1,0 +1,4 @@
+*.pyc
+scratch
+*_experiment_dir_*
+env
