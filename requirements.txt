@@ -1,0 +1,7 @@
+POT
+cython
+graphviz
+numpy
+pygraphviz
+scipy
+tensorflow-gpu
